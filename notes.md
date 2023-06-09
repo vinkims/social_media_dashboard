@@ -1,6 +1,6 @@
 # Functional Requirements and Notes
 
-Light/Dark Mode toggle
+Light/Dark Mode toggle -- takes system preference by default but can override
 - What HTMl markup(accessible)
 - Switching between light/dark modes via JS
 - Three option toggle: light/dark/system pref -- https://codepen.io/renddrew/pen/bRomab?editors=1100
